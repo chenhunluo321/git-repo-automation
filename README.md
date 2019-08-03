@@ -1,6 +1,6 @@
 <p align="center">
     <a href="" rel="noopener">
- <img height= 400 width = 236 src="https://user-images.githubusercontent.com/32112516/62415698-a597b300-b61d-11e9-97a7-4ba195cf7389.png" alt="Project logo"></a>
+ <img height= 236 width = 400 src="https://user-images.githubusercontent.com/32112516/62415698-a597b300-b61d-11e9-97a7-4ba195cf7389.png" alt="Project logo"></a>
 
 <h3 align="center">Project Automation</h3>
 
